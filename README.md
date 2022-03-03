@@ -2,7 +2,7 @@
 - 👀 I’m interested in network security, cyber security & automation.
 - 🌱 I’m currently learning network security, cyber security & automation.
 - 💞️ I’m looking to collaborate on network security, cyber security & automation.
-- 📫 How to reach me via github.
+- 📫 Reach me via github.
 
 <!---
 vo-gne/vo-gne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
